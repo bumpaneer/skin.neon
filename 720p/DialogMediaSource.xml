@@ -158,8 +158,8 @@
         <description>Name</description>
         <left>20</left>
         <top>358</top>
-				<width>500</width>
-				<height>30</height>
+        <width>500</width>
+        <height>30</height>
         <label>-</label>
         <textcolor>TextSelected</textcolor>
         <focusedcolor>white</focusedcolor>

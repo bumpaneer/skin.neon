@@ -35,7 +35,7 @@
         <width>640</width>
         <height>90</height>
         <aspectratio>stretch</aspectratio>
-				<colordiffuse>mainblue</colordiffuse>
+        <colordiffuse>mainblue</colordiffuse>
         <texture>GlassTitleBar.png</texture>
       </control>
       <control type="label" id="1">
@@ -60,7 +60,7 @@
         <label>-</label>
         <font>-</font>
         <onclick>PreviousMenu</onclick>
-				<colordiffuse>mainblue</colordiffuse>
+        <colordiffuse>mainblue</colordiffuse>
         <texturefocus>DialogCloseButton-focus.png</texturefocus>
         <texturenofocus>DialogCloseButton.png</texturenofocus>
         <onleft>3</onleft>
@@ -306,7 +306,7 @@
         <top>0</top>
         <height>40</height>
         <textcolor>grey2</textcolor>
-				<focusedcolor>white</focusedcolor>
+        <focusedcolor>white</focusedcolor>
         <selectedcolor>selected</selectedcolor>
         <font>Font_Neon_24</font>
         <colordiffuse>mainblue</colordiffuse>
